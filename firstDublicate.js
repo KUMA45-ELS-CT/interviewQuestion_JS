@@ -11,3 +11,4 @@ function dublicates(str) {
     return -1
 }
 console.log(dublicates("bacefdde"));
+console.log("abc");
